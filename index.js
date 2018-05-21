@@ -32,6 +32,6 @@ function appendKitten(array, brrom) {
     return kittens.slice(0, kittens.length -1)
  }
  
- function removeLastKitten(array, name){
+ function removeFirstKitten(array, name){
    return kittens.slice(0);
  }
